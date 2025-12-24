@@ -5,8 +5,6 @@ name = input('Enter Name: ')
 
 if name.lower() == 'ethan':
   print("you are a short, little, man")
-elif name.lower() == 'levi':
-  print("Damn, you are one sexy beast")
 elif name.lower() == "sam":
   print("Psychology is not a real science")
 else:
